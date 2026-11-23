@@ -12,8 +12,6 @@ O repositório é destinado exclusivamente à documentação acadêmica, podendo
 
 - 📄 Documentos e relatórios;
 - 📋 Atividades e exercícios da disciplina;
-- 📝 Registros e anotações das aulas;
-- 📊 Planejamentos e materiais relacionados à Gestão de Projetos.
 
 ## 🎓 Informações Acadêmicas
 
