@@ -1,19 +1,19 @@
 # 📚 Gestão de Projetos — FieldOps
 
-## 🎯 Sobre o Repositório
+## Sobre o Repositório
 
 Este repositório foi criado com o objetivo de armazenar, organizar e disponibilizar as documentações desenvolvidas durante a disciplina de **Gestão de Projetos**, do curso de Análise e Desenvolvimento de Sistemas (TADS).
 
 O espaço reúne materiais, atividades, registros e documentos relacionados aos conteúdos estudados em aula, servindo como um ambiente de consulta e acompanhamento do aprendizado.
 
-## 📂 Organização
+##  Organização
 
 O repositório é destinado exclusivamente à documentação acadêmica, podendo conter:
 
 - 📄 Documentos e relatórios;
 - 📋 Atividades e exercícios da disciplina;
 
-## 🎓 Informações Acadêmicas
+## Informações Acadêmicas
 
 | Informação | Descrição |
 |---|---|
@@ -27,7 +27,7 @@ O repositório é destinado exclusivamente à documentação acadêmica, podendo
 
 <div align="center">
 
-### 👩‍💻 Desenvolvido por
+### Desenvolvido por
 
 **Isabelle Nastri Sales**
 
